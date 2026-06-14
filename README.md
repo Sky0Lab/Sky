@@ -52,3 +52,10 @@ SkyAI is closer to an **AI operating system** than a simple assistant.
 
 This repository marks the beginning, not the full picture.  
 More will be revealed — concretely, not théoriquement — when the system is ready to be used, not just described.
+
+## Legal Notice
+
+SkyAI is a private proprietary system in development.
+
+This public repository is provided for identity and announcement purposes only.
+No license is granted to copy, modify, redistribute, commercialize, or create derivative works from any part of this repository without prior written permission.
