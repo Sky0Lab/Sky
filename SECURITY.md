@@ -25,10 +25,7 @@ Example (for future use):
 If you believe you have found a security issue related to SkyAI or any
 associated component, please **do not** open a public issue or discussion.
 
-Instead, contact the maintainer directly:
-
-- Email: `security@skyai.local` (placeholder – replace with your real contact)
-- Subject line: `SECURITY REPORT – SkyAI`
+Instead, contact the maintainer directly. 
 
 Please include, when possible:
 - a clear description of the issue
